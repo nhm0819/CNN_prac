@@ -33,7 +33,7 @@
   - natural_classification.py
   - natural_utils.py
 
--results<br>
+-natural classification results<br>
 model 1 : loss:        - accuracy: 0.94   ( train : val : test = 9 : 0 : 1)<br>
 model 3 : loss: 0.2214 - accuracy: 0.9235 ( train : val : test = 8 : 1 : 1)<br>
 model 4 : loss: 0.19   - accuracy: 0.9380 ( train : val : test = 8 : 1 : 1)<br>
