@@ -4,7 +4,7 @@
 
 ### KSA 인공지능 - CNN practice<br>
 
-1. Cat and Dog image Classification<br>
+1. Dog and Cat image Classification<br>
 
     Data counts
 
@@ -12,8 +12,8 @@
     - dog      : 31303
 <br>
 
-  - cat_dog_classification.py
-  - cat_dog_utils.py
+  - dog_cat_classification.py
+  - dog_cat_utils.py
 
 <br>
 
