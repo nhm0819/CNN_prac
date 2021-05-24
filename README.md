@@ -1,8 +1,6 @@
-# CNN_prac
+# CNN practice
 
-
-
-### KSA 인공지능 - CNN practice<br>
+<br><br>
 
 1. Dog and Cat image Classification<br>
 
